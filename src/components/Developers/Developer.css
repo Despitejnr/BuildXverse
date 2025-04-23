@@ -1,0 +1,28 @@
+
+.devs-card{
+    padding: 10px;
+    border: 1px solid rgb(138, 136, 139);
+    border-radius: 10px;
+}
+
+.devs-card img{
+    width: 120px;
+    border-radius: 50%;
+    height: 120px;
+}
+
+.devs-text {
+    p{
+        margin: 5px;
+    }
+    h4{
+        font-weight: 10px;
+    }
+}
+
+.dev-conti{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 40px;
+}

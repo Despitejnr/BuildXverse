@@ -1,0 +1,11 @@
+
+.ready{
+    margin: 20px;
+}
+
+.ready a{
+    text-decoration: none;
+    color: aliceblue;
+    background-color: rgb(91, 91, 226);
+    padding: 20px;
+}
